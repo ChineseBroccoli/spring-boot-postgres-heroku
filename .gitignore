@@ -31,3 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
+
+../spring-boot-postgres-heroku/src/main/resources/application-dev.properties
